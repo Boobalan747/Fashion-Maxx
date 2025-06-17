@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://boobalan747.github.io/Fashion-Maxx/)
+👉 [Click here to view the live site](https://Boobalan747.github.io/Fashion-Maxx/)
 
 ---
 
@@ -48,7 +48,8 @@ fashion-maxx/
 
 ## 📸 Screenshots
 
-_Add screenshots here if you'd like to showcase the UI_
+![Screenshot 2025-06-17 201146](https://github.com/user-attachments/assets/80fe7a1f-39e2-4f2a-a1c0-c1597646f6f1)
+
 
 ---
 
